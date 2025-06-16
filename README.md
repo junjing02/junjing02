@@ -1,6 +1,5 @@
-<h1>Hi there, I'm Jun Jing</h1>
+## Hi there, I'm Ting Jun Jing
 
-## About Me
 As a final-year Computer Science student at UTAR, I am passionate about
 transforming innovative ideas into software solutions that benefit the
 community. Currently, I am
