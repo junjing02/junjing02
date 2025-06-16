@@ -6,5 +6,5 @@ community. Currently, I am
 seeking an internship opportunity where I can contribute my enthusiasm for
 problem-solving and gain hands-on experience to further develop my skills.
 
-- Expected Internship Period: Oct 2025 -Jan 2026
+- Internship Period: Oct 2025 -Jan 2026
 - Expected Graduation: Jan 2026
